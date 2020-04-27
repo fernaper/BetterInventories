@@ -1,4 +1,4 @@
-package com.kramez.betterinventories.common;
+package com.kramez.betterinventories.commonPackets;
 
 import java.util.function.Supplier;
 

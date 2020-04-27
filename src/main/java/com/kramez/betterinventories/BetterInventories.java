@@ -46,7 +46,6 @@ public class BetterInventories {
 
 	private void doClientStuff(final FMLClientSetupEvent event) {
 		Minecraft minecraft = event.getMinecraftSupplier().get();
-		
 		// do something that can only be done on the client
 		LOGGER.info("Got game settings {}", minecraft.gameSettings);
 	}
